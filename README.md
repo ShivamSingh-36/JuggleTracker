@@ -40,15 +40,15 @@
 ## 🎬 Demo
 
 ### Detection in Action
-![Detection Timeline](assets/detection_timeline.png)
+![Detection Timeline](assests/detection_timeline.png)
 *Frame-by-frame confidence scores with detected kick-ups*
 
 ### Method Comparison
-![Performance Comparison](assets/method_comparison.png)
+![Performance Comparison](assests/method_comparison.png)
 *Comparative analysis of three detection strategies*
 
 ### Ground Truth Validation
-![Ground Truth Alignment](assets/ground_truth_alignment.png)
+![Ground Truth Alignment](assests/ground_truth_alignment.png)
 *Gold lines indicate matches within ±5 frame tolerance*
 
 ---
