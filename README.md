@@ -37,7 +37,7 @@
 - **Timing Consistency**: 64.8%
 - **Overall Quality Score**: 84.5%
 ---
-## 🎬 Demo
+##  Images
 
 ### Detection in Action
 ![Detection Timeline](assests/detection_timeline.png)
@@ -52,7 +52,7 @@
 *Gold lines indicate matches within ±5 frame tolerance*
 
 ---
-## 🔬 Methodology
+##  Methodology
 
 ### System Architecture
 
@@ -139,7 +139,7 @@ Input Video
 
 ---
 
-## 📈 Performance Comparison
+##  Performance Comparison
 
 ### Precision-Recall Trade-off
 
@@ -158,7 +158,7 @@ Best Overall: Balanced (F1 = 0.774)
 - **Consistency score**: 64.8% (std dev/mean)
 - **Processing speed**: ~20-25 fps on CPU, ~40-50 fps on GPU
 ---
-## 📁 Project Structure
+##  Project Structure
 
 ```
 kickup-detection/
@@ -185,7 +185,7 @@ kickup-detection/
     ├── vidb.mp4
     └── (add your videos here)
 ```
-## ⚙️ Configuration
+##  Configuration
 
 ### Detection Parameters
 
@@ -222,7 +222,7 @@ DISPLAY_WIDTH, DISPLAY_HEIGHT = 1200, 700  # Display resolution
 ```
 
 ---
-## 🐛 Known Issues & Limitations
+##  Known Issues & Limitations
 
 ### Current Limitations
 1. **Single-player only**: Does not handle multiple players simultaneously
@@ -256,6 +256,6 @@ PEAK_DISTANCE = 12
 - Verify the YOLO model is loaded correctly
 - Try adjusting the YOLO confidence threshold
 ---
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
